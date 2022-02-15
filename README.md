@@ -1,2 +1,2 @@
 # Tweeter-Frens-Fly-High
-Tweeter Frens Very own game!
+Tweeter Frens very own game!
